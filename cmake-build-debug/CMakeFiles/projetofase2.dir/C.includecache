@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/bruno/Desktop/projetofase2/bruteforce.h
+versaoMelhorada.h
+C:/Users/bruno/Desktop/projetofase2/versaoMelhorada.h
+stdio.h
+C:/Users/bruno/Desktop/projetofase2/stdio.h
+stdlib.h
+C:/Users/bruno/Desktop/projetofase2/stdlib.h
+time.h
+C:/Users/bruno/Desktop/projetofase2/time.h
+math.h
+C:/Users/bruno/Desktop/projetofase2/math.h
+
+C:/Users/bruno/Desktop/projetofase2/versaoMelhorada.c
+versaoMelhorada.h
+C:/Users/bruno/Desktop/projetofase2/versaoMelhorada.h
+bruteforce.h
+C:/Users/bruno/Desktop/projetofase2/bruteforce.h
+
+C:/Users/bruno/Desktop/projetofase2/versaoMelhorada.h
+stdio.h
+C:/Users/bruno/Desktop/projetofase2/stdio.h
+stdlib.h
+C:/Users/bruno/Desktop/projetofase2/stdlib.h
+math.h
+C:/Users/bruno/Desktop/projetofase2/math.h
+
